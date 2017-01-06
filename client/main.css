@@ -1,0 +1,6 @@
+/* CSS declarations go here */
+
+.ui-corner-all {
+  -webkit-border-radius: .6em /*{global-radii-blocks}*/;
+  border-radius: .6em /*{global-radii-blocks}*/;
+}
